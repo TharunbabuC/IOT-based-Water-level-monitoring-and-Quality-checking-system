@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL31V38NsIs"
+#define BLYNK_TEMPLATE_ID "***************"
 #define BLYNK_TEMPLATE_NAME "water level"
-#define BLYNK_AUTH_TOKEN "Glce_5rvDSmChVFo6vukFSyy3FqXu20X"
+#define BLYNK_AUTH_TOKEN "*****************"
 
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
